@@ -12,7 +12,7 @@ The scope of the work for Project Viri is approximate as follows:
 - The licensor retains the copyright to any resources or materials (i.e., concepts, models, textures, etc...) as developed by the Licesnsor to be used for any purpose.
 - The licensee retains the copyright to any resources they provide (i.e., logos, names).
 
-The License is free to:
+The Licensee is free to:
 - Adapt -- Remix, transform, and/or build upon the matieral
 - Commercial Use -- Benefit commercially (for profit, or not for profit) from the use of the work.
 
@@ -34,9 +34,9 @@ I have reviewed the terms of the above agreement, and agree to them:
 ### Licesnsor
 Name: Amy
 
-Date: January 19, 2026
+Date: 
 
 ### Licensee
-Name:
+Name: 
 
 Date:
