@@ -1,5 +1,5 @@
 # Big Cat Creations x The Femboy Host Club
-This is an agreement between Amy of Big Cat Creations, the licensor, and PrincessJess on behalf of The Femboy Host Club (FBHC), the License, for work-done on Project Viri (FBHC 2026 Hostclub Venue Re-Design & Re-Master).
+This is an agreement between Amy of Big Cat Creations, the licensor, and PrincessJess on behalf of The Femboy Host Club (FBHC), the Licensee, for work-done on Project Viri (FBHC 2026 Hostclub Venue Re-Design & Re-Master).
 
 ## Scope of Work:
 The scope of the work for Project Viri is approximate as follows:
@@ -37,6 +37,6 @@ Name: Amy
 Date: January 25, 2026
 
 ### Licensee
-Name: 
+Name: PrincessJess
 
-Date:
+Date: January 26. 2026
