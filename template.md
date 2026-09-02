@@ -68,7 +68,7 @@ Modifications are defined as any change to the materials provided by the licenso
 - Changes in material properties.
 
 ### Derivatives
-Derivatives are defined as any materials that use elements (e.g., concepts, meshes, textures, materials) that were provided by the licensor.
+Derivatives are defined as any materials that use elements (e.g., concepts, meshes, textures, materials, etc...) that were provided by the licensor.
 
 
 ## Agreement
