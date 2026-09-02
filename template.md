@@ -5,11 +5,20 @@ This is an agreement between Amy of Big Cat Creations, the licensor, and insert-
 ## Scope of Work:
 The scope of work for project-name is the development of...
 
-
 ## Copyright:
 - The licensor retains the copyright to any resources or materials (i.e., concepts, models, textures, etc...) as developed by the Licesnsor to be used for any purpose.
 - The licensee is given a revokeable right to use the resources or materials developed by the Licensor according to the below [Terms of Use](#terms-of-use)
 - The licensee retains the copyright to any resources they provide (i.e., logos, names, etc...).
+
+## Payment
+- Payment will be based on the number of hours worked on the project, at a rate of $20 USD per hour.
+- The number of hours worked will be tracked in a Proton Sheet made accessible to the licensor.
+- Work on the project includes, but is not limited to:
+  - Time spent consulting with the licensor,
+  - Time spent producing resources or materials.
+- The licensee, or a trusted third party, will pay the licensor at the points indicated within the scope of work.
+- If payment is not provided, work will be put on hold.
+- If payment is refunded, the licensor retains the right to revoke the license to any materials or resources provided up to that point.
 
 ## Terms of Use
 The Licensee is free to:
@@ -19,8 +28,8 @@ The Licensee is free to:
 - Upload the materials to VRChat
 
 Provided that:
-- The development of materials by the licensor is not used as an endorsement of the licensee's products or services
-- [Appropriate credit](#appropriate-credit) is provided and [easily accessible](#easily-accessible)
+- The development of materials by the licensor is not used as an endorsement of the licensee's products or services.
+- [Appropriate credit](#appropriate-credit) is provided and [easily accessible](#easily-accessible).
 - If the provided materials are [modified](#modifications), that it is indicated that changes were made.
 - Materials provided by the licensor, including their [derivatives](#derivatives), are not:
   - redistributed or reused in other products or projects unless explicitly defined within the [scope of work](#scope-of-work),
