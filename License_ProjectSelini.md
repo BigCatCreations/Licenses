@@ -2,7 +2,7 @@
 This is an agreement between Amy of Big Cat Creations, the licensor; Lunova on behalf of Lunova Kingdom, the License; and Vire as the Project Sponsor for work-done on Project Selini.
 
 ## Scope of Work
-All stages of the below work will be completed in a way that they are compliant with the design brief.
+All stages of the below work will be completed in a way that they are compliant with the design brief. At the end of each stage, the licensee may decide to end further development if they choose to work with another partner.
 
 ### STAGE 1 // PLANNING
 1. Gathering of detailed references of gothic architectural elements, relevant floorplans, fantastical elements, crystal structures, wisteria, crawling vines, and lunar elements
@@ -13,6 +13,7 @@ All stages of the below work will be completed in a way that they are compliant 
 1. Grey box block out of the venue that can be explored on VR Chat to guide refinement of the layout and the relationships between spaces
 
 **DELIVERABLE:** FBX of grey boxed venue
+
 **NOTE:** Room count & layouts are finalized at the end of Stage 2 
 ### STAGE 3 // DEVELOPMENT
 1. Development of texture atlases, optimized meshes, and graphics needed for the castle
@@ -27,6 +28,7 @@ All stages of the below work will be completed in a way that they are compliant 
 2. World download size will be targeted to be <125 MB
 
 **DELIVERABLE:** World privately uploaded to Amy's account, as well as other requested accounts. A copy of the Unity Project will be provided, excluding software that requires the licensee to purchase a personal license (e.g., Bakery)
+
 **NOTE:** World size target is "large" due to the scale of planned venue. 
 ### STAGE 5 // SEASONAL THEMING
 1. Sets of decorations for Halloween, Christmas, Valentines will be developed and implemented within the world
@@ -47,8 +49,8 @@ All stages of the below work will be completed in a way that they are compliant 
 - Lunar themes throughout the design
 - Lighting
   - Warm light from fireplaces, and candles
-	- Moonlight streaming in through the windows
-	- Cold teal and purple light coming from the crystals
+  - Moonlight streaming in through the windows
+  - Cold teal and purple light coming from the crystals
 
 ### Required Rooms
 - Lobby Space
@@ -99,7 +101,7 @@ All stages of the below work will be completed in a way that they are compliant 
 - Work on the project includes, but is not limited to:
   - Time spent consulting with the licensor,
   - Time spent producing resources or materials.
-- The licensee, or a trusted third party, will pay the licensor at the end of each stage.
+- The project sponsor agrees to pay the invoiced hours at the end of each stage.
 - If payment is not provided, work will be put on hold.
 - If payment is refunded, the licensor retains the right to revoke the license to any materials or resources provided up to that point.
 
@@ -159,9 +161,15 @@ I have reviewed the terms of the above agreement, and agree to them:
 
 ### Licesnsor: Big Cat Creations
 Name: Amy
+
 Date: 
 
 ### Licensee: 
 Name:
 
 Date:
+
+### Project Sponsor:
+Name: 
+
+Date: 
