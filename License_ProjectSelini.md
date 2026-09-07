@@ -165,7 +165,7 @@ Name: Amy
 Date: 
 
 ### Licensee: 
-Name:
+Name: Lunova
 
 Date:
 
