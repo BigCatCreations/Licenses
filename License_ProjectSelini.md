@@ -170,6 +170,6 @@ Name: Lunova
 Date: September 3, 2026
 
 ### Project Sponsor:
-Name: 
+Name: Vire
 
-Date: 
+Date: 08/09/2026
